@@ -1,11 +1,11 @@
 import Heder from "../../layout/GeneralLay/Heder"
-import BodyLoguser from "../../layout/LoguserLay/BodyLoguser"
+import Reguser from "../../layout/ReguserLay/BodyReguser"
 export default function Logasa() {
     return (
         <>
         <div>
                 <Heder />
-                <BodyLoguser />
+                <Reguser />
         </div>
         </>
             );

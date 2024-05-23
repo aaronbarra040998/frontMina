@@ -1,0 +1,20 @@
+.bodyhome{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.partleft{
+    width: 50%;
+    background-color: aqua;
+}
+.partrigth{
+    width: 50%;
+    background-color: rgb(24, 62, 62);
+
+}
+
+.regis-box{
+    background-color: rgb(204, 188, 188);
+    height: 90%;
+    margin: 30px;
+}
