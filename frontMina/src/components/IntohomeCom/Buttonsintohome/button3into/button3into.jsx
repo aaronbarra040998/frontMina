@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom'; // Import the useNavigate hook
 export default function Button3into() { // Rename the function to start with an uppercase letter
   const navigate = useNavigate(); // Get the navigation function
     const handleClick = () => {
-    navigate('/'); // Redirect to the /logasa route
+    navigate('/documentosform'); // Redirect to the /logasa route
     };
     return (
         <div>
